@@ -13,12 +13,12 @@
   - Casting
 - [x] Operadores aritméticos
 - [x] Operadores lógicos
-- [] Estruturas condicionais
+- [ ] Estruturas condicionais
   - IF
   - ELSE IF
   - Operador ternário
   - Tabela Verdade
   - Switch
-- [] Estruturas de repetição
-- [] Arrays
-- [] Arrays multidimensionais
+- [ ] Estruturas de repetição
+- [ ] Arrays
+- [ ] Arrays multidimensionais
