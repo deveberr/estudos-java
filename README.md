@@ -14,8 +14,8 @@
 - [x] Operadores aritméticos
 - [x] Operadores lógicos
 - [ ] Estruturas condicionais
-  - IF
-  - ELSE IF
+  - If
+  - Else if
   - Operador ternário
   - Tabela Verdade
   - Switch
