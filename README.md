@@ -20,5 +20,8 @@
   - Tabela Verdade
   - Switch
 - [ ] Estruturas de repetição
+  - While, do while, for
+  - Break
+  - Continue
 - [ ] Arrays
 - [ ] Arrays multidimensionais
