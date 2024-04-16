@@ -1,6 +1,6 @@
-# Aprendendo Java
+# Aprendendo o básico do Java
 
-## 📚 O que aprendi/estou aprendendo
+## ☕ O que aprendi/estou aprendendo
 
 - [x] Linguagem de programação Java
   - SDK: 22, Language level: 8
