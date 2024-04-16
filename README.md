@@ -13,7 +13,7 @@
   - Casting
 - [x] Operadores aritméticos
 - [x] Operadores lógicos
-- [ ] Estruturas condicionais
+- [x] Estruturas condicionais
   - If
   - Else if
   - Operador ternário
