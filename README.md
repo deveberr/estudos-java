@@ -23,5 +23,5 @@
   - While, do while, for
   - Break
   - Continue
-- [ ] Arrays
+- [x] Arrays
 - [ ] Arrays multidimensionais
