@@ -19,9 +19,9 @@
   - Operador ternário
   - Tabela Verdade
   - Switch
-- [ ] Estruturas de repetição
+- [x] Estruturas de repetição
   - While, do while, for
   - Break
   - Continue
 - [x] Arrays
-- [ ] Arrays multidimensionais
+- [x] Arrays multidimensionais
