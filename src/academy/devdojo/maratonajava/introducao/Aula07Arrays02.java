@@ -14,14 +14,14 @@ public class Aula07Arrays02 {
         // Posso usar um for loop dentro de outro for loop
         for (int i = 0; i < meusNumeros.length; i++) {
             for (int j = 0; j < meusNumeros[i].length; j++) {
-                System.out.println(meusNumeros[i][j]);
+                System.out.println("For "+meusNumeros[i][j]);
             }
         }
 
         // Ou posso usar for-each que geralmente é mais fácil de ler e escrever
         for (int[] j : meusNumeros) {
             for (int i : j) {
-                System.out.println("FOR-EACH "+i);
+                System.out.println("For-each "+i);
             }
         }
     }
